@@ -16,3 +16,16 @@ Projeto criado para demonstrar um sistema de **Agenda de Consultas**. Neste exem
 1. **Clonar** este repositório:
    ```bash
    git clone https://github.com/seu-usuario/checkpoint1.git
+   ```
+2. Executar o terminal através do comando
+   ```bash
+   mvn spring-boot:run
+   ```
+3. Acesse o servidor local através de
+   ```url 
+   http://localhost:8080/swagger-ui.html
+   ```
+   
+
+## Referências
+https://springdoc.org/
